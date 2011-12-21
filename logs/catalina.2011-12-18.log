@@ -1,0 +1,70 @@
+Dec 18, 2011 5:33:03 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.6.0_27\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;.
+Dec 18, 2011 5:33:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:33:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1361 ms
+Dec 18, 2011 5:33:04 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 18, 2011 5:33:04 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.23
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\docs
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\examples
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\host-manager
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\manager
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\ROOT
+Dec 18, 2011 5:33:04 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:33:04 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:33:04 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 736 ms
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:34:19 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:34:19 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:37:10 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.6.0_27\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;.
+Dec 18, 2011 5:37:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:37:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 545 ms
+Dec 18, 2011 5:37:10 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 18, 2011 5:37:10 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.23
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\docs
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\examples
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\host-manager
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\manager
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\git\tomcat\webapps\ROOT
+Dec 18, 2011 5:37:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 18, 2011 5:37:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 18, 2011 5:37:10 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 568 ms
